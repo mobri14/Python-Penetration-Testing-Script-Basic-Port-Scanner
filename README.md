@@ -1,6 +1,6 @@
 # Python-Penetration-Testing-Script-Basic-Port-Scanner
 Python Penetration Testing Script: Basic Port Scanner
-```pyhton
+```
 import socket
 from datetime import datetime
 
